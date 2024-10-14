@@ -1,5 +1,3 @@
-import java.util.Locale;
-
 public class StringMethods {
     public static void main(String[] args) {
         // StringMethod

@@ -2,11 +2,9 @@ public class StringIndexes {
     public static void main(String[] args) {
         // handling string indexes
         var string1 = "Hello World";
-
-
         // Get first character
-        var firstCharachter = string1.charAt(0); // Gets the char "H"
-        System.out.println("firstCharachter = " + firstCharachter);
+        var firstCharacter = string1.charAt(0); // Gets the char "H"
+        System.out.println("firstCharachter = " + firstCharacter);
         // Get last character
         var lastCharacter = string1.charAt(10);
         System.out.println("lastCharacter = " + lastCharacter);
