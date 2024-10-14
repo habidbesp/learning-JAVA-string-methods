@@ -7,6 +7,8 @@ Welcome to my **Java String Methods Repository**! This repository is dedicated t
 This repository focuses on:
 - Learning and practicing different Java `String` methods.
 - Small examples and exercises demonstrating how these methods work.
+- Concepts like **string immutability** and **string concatenation**.
+- String concatenation using **`new StringBuilder()`** and **`new StringBuffer()`** with the `append()` method.
 - Notes and explanations for better understanding.
 
 All the code can be found in the **`src`** directory.
@@ -21,6 +23,8 @@ All the code can be found in the **`src`** directory.
 - replace()
 - trim()
 - strip()
+- String immutability
+- String concatenation (using +, new StringBuilder(), and new StringBuffer() with the append() method)
 - And many more...
 
 ## Future Goals
